@@ -23,3 +23,9 @@ outputs/
 
 # Environment Files
 .env
+
+# Ignore large datasets
+data/household_power_consumption.txt
+data/*.txt
+data/*.zip
+data/individual+household+electric+power+consumption/
