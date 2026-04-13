@@ -25,7 +25,10 @@ outputs/
 .env
 
 # Ignore large datasets
-data/household_power_consumption.txt
 data/*.txt
 data/*.zip
+data/processed_energy_data.csv
 data/individual+household+electric+power+consumption/
+
+# Optional: Ignore all generated data files
+# data/*.csv
