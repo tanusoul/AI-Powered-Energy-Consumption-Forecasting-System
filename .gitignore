@@ -4,31 +4,29 @@ venv/
 # Python Cache
 __pycache__/
 *.pyc
+# Virtual Environment
+venv/
 
-# Model Files
-models/*.pkl
-
-# Data Files
-data/*.csv
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
+# Python Cache
+__pycache__/
+*.pyc
 
 # System Files
 .DS_Store
 Thumbs.db
 
-# Output Files
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Model Files
+models/*.pkl
+
+# Outputs
 outputs/
 
-# Environment Files
-.env
 
 # Ignore large datasets
+data/processed_energy_data.csv
 data/*.txt
 data/*.zip
-data/processed_energy_data.csv
 data/individual+household+electric+power+consumption/
-
-# Optional: Ignore all generated data files
-# data/*.csv
