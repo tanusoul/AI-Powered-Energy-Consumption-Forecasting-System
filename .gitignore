@@ -30,3 +30,16 @@ data/processed_energy_data.csv
 data/*.txt
 data/*.zip
 data/individual+household+electric+power+consumption/
+# Ignore datasets
+data/*.csv
+data/*.txt
+data/*.zip
+
+# Ignore virtual environment
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
