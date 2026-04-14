@@ -77,15 +77,19 @@ AI-Powered-Energy-Consumption-Forecasting-System/
 ```
 
 ---
-
 ## 📊 Dataset
 
-This project uses the **Individual Household Electric Power Consumption Dataset** from the UCI Machine Learning Repository.
+This project uses the Individual Household Electric Power Consumption Dataset from the UCI Machine Learning Repository.
 
-🔗 **Dataset Source:**
+🔗 Dataset Link:
 https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
-Due to GitHub's file size limitations, large datasets are not included in this repository.
+Due to GitHub's file size limitations, the dataset is not included in this repository.
+
+### Steps to Use the Dataset
+1. Download the dataset from the link above.
+2. Place it inside the `data/` directory.
+3. Run the preprocessing scripts to generate the required files.
 
 ### Steps to Use the Dataset
 
