@@ -190,20 +190,50 @@ http://localhost:8501
 * 🎨 Provides an interactive and user-friendly interface
 
 ---
-## 📸 Project Screenshots
+## 📸 Project Outputs
 
-### Dashboard Overview
-![Dashboard](images/dashboard_home.png)
+### 📊 Energy Consumption Over Time
+![Energy Over Time](images/energy_over_time.png)
 
-### Visualizations
-![Visualizations](images/dashboard_visualizations.png)
+### 📅 Daily Average Energy Consumption
+![Daily Average Energy](images/daily_average_energy.png)
 
-### Forecasting Output
-![Forecast](images/dashboard_forecast.png)
+### 📆 Monthly Average Energy Consumption
+![Monthly Average Energy](images/monthly_average_energy.png)
 
-### Model Insights
-![Model Insights](images/dashboard_model_insights.png)
+### 📈 Energy Distribution
+![Energy Distribution](images/energy_distribution.png)
 
+### 🧾 Data Summary and Missing Value Analysis
+![Data Summary](images/data_info_statistical_summary_and_missing_value_analysis.png)
+
+### 🔍 Feature Engineering Output
+![Feature Engineering](images/feature_engineering_output.png)
+
+### 🤖 Linear Regression Predictions
+![Linear Regression Predictions](images/linear_regression_predictions.png)
+
+### 🌲 Random Forest Predictions
+![Random Forest Predictions](images/random_forest_predictions.png)
+
+### 📊 Model Performance Comparison
+![Model Results](images/model_results.png)
+
+### 🔮 Energy Forecast
+![Energy Forecast](images/energy_forecast.png)
+
+### 📉 Final Forecast Output
+![Final Forecast](images/energy_forecast_complete.png)
+
+---
+
+## 🖥️ Interactive Dashboard
+
+### 📊 Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔮 Forecasting Module
+![Dashboard Forecasting](images/dashboard_forecasting.png)
 ---
 
 ## 🌐 Deployment
