@@ -190,15 +190,19 @@ http://localhost:8501
 * 🎨 Provides an interactive and user-friendly interface
 
 ---
-
 ## 📸 Project Screenshots
 
-| Feature             | Image                                 |
-| ------------------- | ------------------------------------- |
-| Dashboard Overview  | `images/dashboard_home.png`           |
-| Data Visualizations | `images/dashboard_visualizations.png` |
-| Energy Forecasting  | `images/dashboard_forecast.png`       |
-| Model Insights      | `images/dashboard_model_insights.png` |
+### Dashboard Overview
+![Dashboard](images/dashboard_home.png)
+
+### Visualizations
+![Visualizations](images/dashboard_visualizations.png)
+
+### Forecasting Output
+![Forecast](images/dashboard_forecast.png)
+
+### Model Insights
+![Model Insights](images/dashboard_model_insights.png)
 
 ---
 
